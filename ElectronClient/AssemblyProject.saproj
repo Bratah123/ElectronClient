@@ -1,0 +1,50 @@
+<SmartAssemblyProject ProjectId="{0507ae33-af31-4b24-bb00-23f49fa44960}" Version="2.0">
+    <MainAssemblyFileName>.\bin\Release\Celino.exe</MainAssemblyFileName>
+    <FriendlyName>CelinoSEA</FriendlyName>
+    <CompanyName>CelinoSEA</CompanyName>
+    <Configuration Name="Release">
+        <ApplicationName>CelinoSEA</ApplicationName>
+        <Destination DestinationFileName="..\..\Celino.exe" />
+        <Assemblies>
+            <Assembly AssemblyName="MapleStory, Culture=neutral, PublicKeyToken=52c6a5107f729fd0">
+                <Merging>
+                    <ResourcesCompression Compress="0" />
+                    <MemberRefsProxy Proxy="1" />
+                    <Pruning Prune="0">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation Obfuscate="1">
+                        <Exclusion />
+                    </Obfuscation>
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
+                    <StringsEncoding />
+                    <ResourcesPruning />
+                </Merging>
+            </Assembly>
+            <Assembly AssemblyName="Celino, Culture=neutral, PublicKeyToken=52c6a5107f729fd0">
+                <Merging>
+                    <ResourcesCompression />
+                    <MemberRefsProxy Proxy="1" />
+                    <StringsEncoding />
+                    <Pruning Prune="0">
+                        <Exclusion />
+                    </Pruning>
+                    <Obfuscation Obfuscate="1">
+                        <Exclusion />
+                    </Obfuscation>
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
+                    <ResourcesPruning />
+                </Merging>
+            </Assembly>
+        </Assemblies>
+        <Options>
+            <Obfuscation FieldsNameMangling="3" NameMangling="3" />
+            <ExceptionReporting AlwaysContinueOnError="0" ReportExceptions="1" />
+            <StrongNameSigning KeyFileName=".\bin\Release\CelinoKey.snk" Sign="1" />
+            <OtherProtections AddMetadataStream="1" SuppressIldasm="1" />
+            <StringsEncoding Compress="1" Encode="1" UseCache="1" UseImprovedEncoding="1" />
+            <OtherOptimizations ManageMemory="1" SealClasses="1" />
+            <Debugging CreatePDB="0" />
+        </Options>
+    </Configuration>
+</SmartAssemblyProject>

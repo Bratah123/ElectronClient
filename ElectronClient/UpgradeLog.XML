@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Celino">
+</Property><Property Name="Solution File" Value="C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Celino.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Celino.suo">
+</Property><Property Name="Date" Value="Wednesday, October 20, 2010">
+</Property><Property Name="Time" Value="13:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Celino.sln" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Celino.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Celino.suo" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Celino.suo">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Celino.csproj" Description="Project file successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Celino.csproj">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Celino.csproj.user" Description="Project user file successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Celino.csproj.user">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Settings.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\AbstractPacket.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\AbstractPacket.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\Acceptor.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\Acceptor.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\AccountCheck.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\AccountCheck.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\ByteArraySegment.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\ByteArraySegment.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="frmMain.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="frmMain.Designer.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="InterceptedLinkedClient.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\InterceptedLinkedClient.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="LinkClient.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\LinkClient.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="LinkServer.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\LinkServer.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\Connector.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\Connector.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\CryptoConstants.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\CryptoConstants.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\DllInject.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\DllInject.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\HexEncoding.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\HexEncoding.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\LockFreeQueue.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\LockFreeQueue.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Program.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="SettingsForm.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\SettingsForm.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="SettingsForm.Designer.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\SettingsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\LoginListener.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\LoginListener.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\MapleCrypto.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\MapleCrypto.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\PacketReader.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\PacketReader.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\PacketWriter.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\PacketWriter.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\Session.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\Session.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Tools\SessionType.cs" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Tools\SessionType.cs">
+</Event><Event ErrorLevel="0" Project="Celino" Source="app.config" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Celino" Source="app.manifest" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\app.manifest">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Resources\votelogo.png" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Resources\votelogo.png">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Maple.ico" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Maple.ico">
+</Event><Event ErrorLevel="0" Project="Celino" Source="frmMain.resx" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Celino" Source="amd64.exe" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\amd64.exe">
+</Event><Event ErrorLevel="0" Project="Celino" Source="i32.exe" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\i32.exe">
+</Event><Event ErrorLevel="0" Project="Celino" Source="SettingsForm.resx" Description="File successfully backed up as C:\Users\Darion\Documents\My Received Files\GMS Localhost Revamped\Backup\SettingsForm.resx">
+</Event><Event ErrorLevel="0" Project="Celino" Source="Celino.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Celino" Source="Celino.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Celino.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Celino.sln" Description="Converted">
+</Event></UpgradeLog>

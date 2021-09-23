@@ -1,0 +1,10 @@
+D:\EllaMS\obj\x86\Release\EllaMS.csproj.GenerateResource.cache
+D:\EllaMS\obj\x86\Release\EllaMS.csproj.CoreCompileInputs.cache
+D:\EllaMS\obj\x86\Release\EllaMS.csprojAssemblyReference.cache
+D:\EllaMS\bin\x86\Release\ElectronMS.exe.config
+D:\EllaMS\bin\x86\Release\ElectronMS.exe
+D:\EllaMS\bin\x86\Release\ElectronMS.pdb
+D:\EllaMS\obj\x86\Release\ElectronMS.frmMain.resources
+D:\EllaMS\obj\x86\Release\ElectronMS.Properties.Resources.resources
+D:\EllaMS\obj\x86\Release\ElectronMS.exe
+D:\EllaMS\obj\x86\Release\ElectronMS.pdb

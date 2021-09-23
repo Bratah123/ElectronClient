@@ -1,0 +1,1 @@
+netsh interface ip set dns "Loopback Pseudo-Interface 1" dhcp

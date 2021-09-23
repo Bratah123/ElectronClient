@@ -1,0 +1,10 @@
+D:\ElectronClient\bin\x86\Release\ElectronMS.exe.config
+D:\ElectronClient\bin\x86\Release\ElectronMS.exe
+D:\ElectronClient\bin\x86\Release\ElectronMS.pdb
+D:\ElectronClient\obj\x86\Release\ElectronMS.frmMain.resources
+D:\ElectronClient\obj\x86\Release\ElectronMS.Properties.Resources.resources
+D:\ElectronClient\obj\x86\Release\ElectronMS.csproj.GenerateResource.cache
+D:\ElectronClient\obj\x86\Release\ElectronMS.csproj.CoreCompileInputs.cache
+D:\ElectronClient\obj\x86\Release\ElectronMS.exe
+D:\ElectronClient\obj\x86\Release\ElectronMS.pdb
+D:\ElectronClient\obj\x86\Release\ElectronMS.csprojAssemblyReference.cache

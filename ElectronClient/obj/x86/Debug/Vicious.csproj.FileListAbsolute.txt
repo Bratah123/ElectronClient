@@ -1,0 +1,17 @@
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\bin\x86\Debug\Hawt.exe.config
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\bin\x86\Debug\Hawt.exe
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\bin\x86\Debug\Hawt.pdb
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\obj\x86\Debug\Hawt.frmMain.resources
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\obj\x86\Debug\Hawt.Properties.Resources.resources
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\obj\x86\Debug\Vicious.csproj.GenerateResource.Cache
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\obj\x86\Debug\Hawt.exe
+C:\Users\nXeapher\Desktop\Server 142\client (1)\client\obj\x86\Debug\Hawt.pdb
+C:\Users\Richard\Desktop\client\bin\x86\Debug\Hawt.exe.config
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Hawt.exe
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Hawt.pdb
+C:\Users\Richard\Desktop\client\bin\x86\Debug\Hawt.exe
+C:\Users\Richard\Desktop\client\bin\x86\Debug\Hawt.pdb
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Vicious.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Hawt.frmMain.resources
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Hawt.Properties.Resources.resources
+C:\Users\Richard\Desktop\client\obj\x86\Debug\Vicious.csproj.GenerateResource.Cache
